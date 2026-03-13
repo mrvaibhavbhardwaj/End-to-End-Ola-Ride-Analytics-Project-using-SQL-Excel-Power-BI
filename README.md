@@ -80,3 +80,4 @@ Vaibhav Bhardwaj
 Aspiring Data Analyst | Skilled in Excel, SQL, Power BI, and Python.
 
 Connect with me on LinkedIn to discuss data analytics projects and opportunities.
+"https://www.linkedin.com/in/mr-vaibhav-bhardwaj/"
